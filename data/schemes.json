@@ -1,0 +1,158 @@
+[
+  {
+    "id": "SCH001",
+    "name": "PM Scholarship Scheme",
+    "description": "Financial aid for students from deceased police/military families pursuing professional courses.",
+    "benefit": "\u20b93,000 per month (Girls) / \u20b92,500 per month (Boys)",
+    "rules": {
+      "min_age": 18,
+      "max_age": 25,
+      "max_income": 600000,
+      "category": [
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "occupation": [
+        "Student"
+      ]
+    },
+    "link": "https://scholarships.gov.in"
+  },
+  {
+    "id": "SCH002",
+    "name": "Post Matric Scholarship for SC",
+    "description": "Financial assistance for SC students studying at post-matriculation level to complete their education.",
+    "benefit": "Full tuition fee + Maintenance allowance",
+    "rules": {
+      "min_age": 16,
+      "max_age": 35,
+      "max_income": 250000,
+      "category": [
+        "SC"
+      ],
+      "occupation": [
+        "Student"
+      ]
+    },
+    "link": "https://socialjustice.gov.in"
+  },
+  {
+    "id": "SCH003",
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana",
+    "description": "World's largest health insurance scheme providing coverage for secondary and tertiary care hospitalization.",
+    "benefit": "Free Healthcare up to \u20b95 Lakhs per family/year",
+    "rules": {
+      "min_age": 0,
+      "max_age": 100,
+      "max_income": 500000,
+      "category": [
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "occupation": [
+        "Any"
+      ]
+    },
+    "link": "https://pmjay.gov.in"
+  },
+  {
+    "id": "SCH004",
+    "name": "Stand Up India Scheme",
+    "description": "Bank loans to facilitate greenfield enterprise setup by SC/ST or Women borrowers.",
+    "benefit": "Loan from \u20b910 Lakh to \u20b91 Crore",
+    "rules": {
+      "min_age": 18,
+      "max_age": 60,
+      "max_income": 10000000,
+      "category": [
+        "SC",
+        "ST",
+        "General",
+        "OBC"
+      ],
+      "occupation": [
+        "Entrepreneur"
+      ]
+    },
+    "link": "https://www.standupmitra.in/"
+  },
+  {
+    "id": "SCH005",
+    "name": "Pre-Matric Scholarship for OBC",
+    "description": "Scholarship for OBC students studying in Class 1 to 10 in government or recognized private schools.",
+    "benefit": "\u20b9500 per month + Ad-hoc grant of \u20b9500/year",
+    "rules": {
+      "min_age": 5,
+      "max_age": 16,
+      "max_income": 250000,
+      "category": [
+        "OBC"
+      ],
+      "occupation": [
+        "Student"
+      ]
+    },
+    "link": "https://scholarships.gov.in"
+  },
+  {
+    "id": "SCH006",
+    "name": "PM Kisan Samman Nidhi",
+    "description": "Income support to all landholding farmer families in the country.",
+    "benefit": "\u20b96,000 per year in three installments",
+    "rules": {
+      "min_age": 18,
+      "max_age": 80,
+      "max_income": 800000,
+      "category": [
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ],
+      "occupation": [
+        "Farmer",
+        "Any"
+      ]
+    },
+    "link": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "SCH007",
+    "name": "National Overseas Scholarship for ST",
+    "description": "Financial assistance to ST students for pursuing Master's/Ph.D. abroad.",
+    "benefit": "Full Tuition + Airfare + Maintenance Allowance (USD 15,400/year)",
+    "rules": {
+      "min_age": 20,
+      "max_age": 35,
+      "max_income": 600000,
+      "category": [
+        "ST"
+      ],
+      "occupation": [
+        "Student"
+      ]
+    },
+    "link": "https://tribal.nic.in"
+  },
+  {
+    "name": "Atal Pension Yojana (APY)",
+    "description": "A social security scheme for all citizens of India, mainly focusing on the unorganized sector. It provides a guaranteed pension after age 60.",
+    "benefit": "Monthly pension of \u20b91,000 to \u20b95,000",
+    "rules": {
+      "min_age": 18,
+      "max_age": 41,
+      "max_income": 250000,
+      "category": [
+        "General",
+        "OBC",
+        "SC",
+        "ST"
+      ]
+    },
+    "id": "SCH008"
+  }
+]
